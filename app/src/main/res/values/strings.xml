@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica 2 Dialogos y notificaciones</string>
+
+    <string name="Registrar">Registrar</string>
+    <string name="Borrardatos">Borrar Datos y Salir</string>
+    <string name="verRegistrosExpo">Ver Registros de Expositor</string>
+    <string name="verRegistrosAsist">Ver Registros de Asistente</string>
+    <string name="salir">Salir</string>
+</resources>
